@@ -1,0 +1,14 @@
+body {
+    background-image:url(background.jpg);
+    background-size:cover;
+    font-family:Arial;
+    padding:70px;
+}
+
+#par {
+    width: 1000px;
+    height: 400px;
+    float:left;
+    margin-left:100px;
+    font-family: cursive;
+}
